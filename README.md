@@ -13,13 +13,13 @@ I aim high, move fast, and break things... but I never quit.
 - 🔭 I'm currently working on the [WSABI Labs'](https://github.com/WSABI-Labs) LLMs - [Ronin Base](https://github.com/WSABI-Labs/Ronin_Base) & [Musashi](https://github.com/WSABI-Labs/Musashi).   
   
 
-- 🌱 I will also be releasing the [WSABI Labs Dataset Pipeline](https://github.com/WSABI-Labs/Dataset_Pipeline) in early-mid September.  
+- 🌱 I will also be releasing the [WSABI Labs Dataset Pipeline](https://github.com/WSABI-Labs/Dataset_Pipeline) in early-mid November. Give me a break - it's a full production stack; I'm one man!  
   
 
-- ⛓️ The v1 [ALIAS Protocol](https://github.com/WSABI-Labs) will be released in early 2024.  
+- ⛓️ The v1 [ALIAS Protocol](https://github.com/WSABI-Labs) will be released in mid 2024.  
   
 
-- 🥷🏼 I believe in privacy as a default option for human beings; I will make hard decisions to realize that ideal.  
+- 🥷🏼 I believe in privacy as a default option for human beings; I will make hard decisions to realize that ideal and ask questions later.  
   
 
 <br/>  
