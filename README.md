@@ -6,7 +6,7 @@
 ### Hello.
 I'm **LoadingALIAS**. I'm a full-stack developer, machine learning aficionado, privacy warrior, and master of **WSABI Labs** - a company exploring the intersection of machine learning and the blockchain.
 
-I aim high, move fast, and break things... but I never quit.
+I aim high, move fast, and break things... but I never quit. 
   
   
 
@@ -16,7 +16,7 @@ I aim high, move fast, and break things... but I never quit.
 - 🌱 I will also be releasing the [WSABI Labs Dataset Pipeline](https://github.com/WSABI-Labs/Dataset_Pipeline) in early-mid November. Give me a break - it's a full production stack; I'm one man!  
   
 
-- ⛓️ The v1 [ALIAS Protocol](https://github.com/WSABI-Labs) will be released in mid 2024.  
+- ⛓️ The v1 [ALIAS Protocol](https://github.com/WSABI-Labs) will be released in mid-to-late 2024.  
   
 
 - 🥷🏼 I believe in privacy as a default option for human beings; I will make hard decisions to realize that ideal and ask questions later.  
