@@ -28,9 +28,6 @@ I aim high, move fast, and break things... but I never quit.
     <a href="https://twitter.com/LoadingALIAS" target="_blank">
         <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a href="https://github.com/LoadingALIAS" target="_blank">
-        <img src="https://img.shields.io/badge/github-%2324292E.svg?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
-    </a>
     <a href="https://www.reddit.com/user/LoadingALIAS/" target="_blank">
         <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=reddit style="margin-bottom: 5px;" />
     </a>
