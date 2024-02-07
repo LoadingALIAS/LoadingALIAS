@@ -26,14 +26,11 @@ I aim high, move fast, and break things... but I never quit.
 
 <div align="right">
     <a href="https://twitter.com/LoadingALIAS" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
     </a>
     <a href="https://github.com/LoadingALIAS" target="_blank">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/github-%2324292E.svg?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
     </a>
-    <br/>
-    [![Warpcast](https://img.shields.io/badge/Warpcast-160E1E?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA8AAACeCAMAAAD7SvhvAAAAMFBMVEX///8AAAD39/fm5ubv7+/q6urqysrK+vr6dnZ2ioqK2trbf39/r6+vj4+P09PT29vb09fX18fHy8vL29vb29vZ7VDrhAAAAXklEQVRIS+3UsQ3AIAwF0Jbb/Ri6UK5k5rHzK5oDhBnbx1iFNKDYWMBX9YvDyAaQz7oG8wEAAAAASUVORK5CYII=)](https://warpcast.com/loadingalias)
-    <br/>
     <a href="https://www.reddit.com/user/LoadingALIAS/" target="_blank">
         <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=reddit style="margin-bottom: 5px;" />
     </a>
