@@ -4,19 +4,11 @@
   
 
 ### Hello.
-I'm **LoadingALIAS**. I'm a full-stack developer, machine learning aficionado, privacy warrior, and master of **ALIAS Labs** - a company exploring the intersection of machine learning and the blockchain.
-
-I aim high, move fast, and break things... but I never quit. 
+I'm **LoadingALIAS**. Things have changed.
   
   
 
-- 🔭 I'm currently working on the [ALIAS Labs'](https://github.com/ALIAS-Labs) LLMs - [Ronin Base](https://github.com/ALIAS-Labs/Ronin_Base) & [Musashi](https://github.com/ALIAS-Labs/Musashi).   
-  
-
-- 🌱 I will also be releasing the [ALIAS Labs Dataset Pipeline](https://github.com/ALIAS-Labs/Dataset_Pipeline) in early-mid November. Give me a break - it's a full production stack; I'm one man!  
-  
-
-- ⛓️ The v1 [ALIAS Protocol](https://github.com/ALIAS-Labs) will be released in mid-to-late 2024.  
+- 🔭 I'm currently working on the [ALIAS Labs'](https://github.com/ALIAS-Labs) [Dataset Pipeline](https://github.com/ALIAS-Labs/Dataset_Pipeline)
   
 
 - 🥷🏼 I believe in privacy as a default option for human beings; I will make hard decisions to realize that ideal and ask questions later.  
