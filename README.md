@@ -4,14 +4,12 @@
   
 
 ### Hello.
-I'm **LoadingALIAS**. Things have changed.
-  
+I'm **LoadingALIAS**, the Founder and Lead Developer of ALIAS Research.
+
+- 🔭 I'm working on the Data Pipeline for [ALIAS Research](https://github.com/ALIAS-Research). 
   
 
-- 🔭 I'm currently working on the [ALIAS Labs'](https://github.com/ALIAS-Labs) [Dataset Pipeline](https://github.com/ALIAS-Labs/Dataset_Pipeline)
-  
-
-- 🥷🏼 I believe in privacy as a default option for human beings; I will make hard decisions to realize that ideal and ask questions later.  
+- 🥷🏼 I believe in privacy as a default option.
   
 
 <br/>  
